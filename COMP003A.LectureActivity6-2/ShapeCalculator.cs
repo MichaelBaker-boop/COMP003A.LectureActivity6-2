@@ -33,7 +33,7 @@
         /// <param name="isTriangle"></param>
         /// <returns></returns>
 
-        public double CalclulateArea(double baseLength, double height, bool isTriangle)
+        public double CalculateArea(double baseLength, double height, bool isTriangle)
         {
             return 0.5 * baseLength * height;
         }
